@@ -2,8 +2,10 @@
 public class Myclass
 {
     //my fields
-    public int Id { get; set; }
+    public int Age { get; set; }
     public string Name { get; set; }
 
     public static void myMethod();
+
+    public static void Rongyu();
 }
